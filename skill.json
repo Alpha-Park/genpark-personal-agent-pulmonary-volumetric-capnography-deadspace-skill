@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-pulmonary-volumetric-capnography-deadspace-skill",
+  "version": "1.0.0",
+  "description": "Calculates Fowler Anatomical Dead Space (Vd_anat), Physiological Dead Space Fraction (Vd/Vt), Alveolar Dead Space (Vd_alv), and Phase III Alveolar Slope (S3) via volumetric capnography.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "pulmonary",
+    "capnography",
+    "dead-space",
+    "fowler",
+    "alveolar-dead-space",
+    "gas-exchange",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
